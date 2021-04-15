@@ -4,34 +4,58 @@
   box-sizing: border-box;
   font-family: "Rubik", sans-serif;
 }
+/*header*/
 .header {
-  width: 100vh;
+  width: 100%;
   position: fixed;
   top: 0;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  border-bottom: solid 2px rgb(247, 244, 240);
+  background-color: rgb(245, 243, 240);
 }
 .logo {
   width: 155px;
   margin-top: 10px;
-  height: 100px;
+  justify-content: center;
 }
 .menu-list {
   display: flex;
   flex-direction: row;
+  justify-content: center;
   align-items: center;
   list-style: none;
-  transform: translate(30%, 170%);
+  padding-bottom: 10px;
+  color: #4a4a4a;
+  transform: translate(40%, 160%);
 }
 .blog {
-  padding-bottom: 10px;
+  font-size: 16px;
   padding-top: 10px;
   padding-right: 20px;
 }
 .contact {
-  padding-bottom: 10px;
+  font-size: 16px;
   padding-top: 10px;
   padding-right: 20px;
+}
+/*main*/
+.main {
+  width: 320px;
+  height: 728px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3cdbc0;
+}
+.title {
+  font-size: 30px;
+  color: #ffffff;
+  width: 10%;
+  height: 10%;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
 }
