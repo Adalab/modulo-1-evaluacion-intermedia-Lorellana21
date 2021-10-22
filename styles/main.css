@@ -39,8 +39,8 @@
   align-items: center;
   justify-content: center;
   background-image: url("https://media.istockphoto.com/videos/valentines-day-pink-abstract-background-video-id912341136?s=640x640");
-  /* background-repeat: no-repeat;
-  background-size: cover; */
+  background-repeat: no-repeat;
+  background-size: cover; 
 }
 
 .title {
