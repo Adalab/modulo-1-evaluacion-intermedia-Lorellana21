@@ -26,6 +26,8 @@ Mobile (by default):
 
   Tablet and desktop (from 768px):
 
+  ![](./images/tablet-version.png)
+
 - The header menu is placed on the right.
 - The text of the menu options has a size of 16px.
 - The title text "Creating Digital Diversity" has a size of 40px.
