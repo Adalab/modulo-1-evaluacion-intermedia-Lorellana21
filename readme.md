@@ -31,3 +31,10 @@ The website has to be responsive, i.e. it must work correctly for the following 
 - The header menu is placed on the right.
 - The text of the menu options has a size of 16px.
 - The title text "Creating Digital Diversity" has a size of 40px.
+
+***
+
+To develop this first prototype I used the **knowledge** acquired in the first 2 weeks of the course. 💪
+
+### Summary:
+![LAYOUT](https://user-images.githubusercontent.com/81922944/129322196-2a1a9997-57eb-4af0-840d-829127720ef5.png)
